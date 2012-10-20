@@ -1,0 +1,5 @@
+import("lpSolve")
+export("dantzig", "capme", "cv.capme", "make.pd","meanclime","linprogS2","linprogPD2","cv.part","Mpower","likelihood","tracel2")
+S3method("print", "dantzig")
+S3method("print", "capme")
+S3method("print", "cv.capme")
